@@ -1,0 +1,26 @@
+{
+  "name": "react-native-jsx-parser",
+  "version": "1.0.0",
+  "description": "Modified JSX Parser to parse JSX string in React Native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://"
+  },
+  "keywords": [
+    "react-native",
+    "jsx-parser",
+    "react",
+    "string",
+    "to",
+    "jsx"
+  ],
+  "author": "Awal Ariansyah",
+  "license": "ISC",
+  "dependencies": {
+    "react-jsx-parser": "^1.28.4"
+  }
+}
