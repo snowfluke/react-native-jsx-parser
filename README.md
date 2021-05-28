@@ -6,9 +6,11 @@ Modified JSX Parser to parse JSX string in React Native
 
 > npm i react-native-jsx-parser --save
 
-# Dependencies
+# Install Dependencies
 
 - [https://www.npmjs.com/package/react-jsx-parser](JsxParser) by troyalford
+
+> npm i react-jsx-parser --save
 
 # Usage
 
