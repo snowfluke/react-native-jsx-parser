@@ -20,7 +20,7 @@ import RNJsxParser from 'RNJsxParser';
 
 // Import all the components needed in the string
 // Example:
-import { PostCard, CommentCard } from './customComponents
+import { PostCard, CommentCard } from './customComponents'
 
 // Define the components objects
 
