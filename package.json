@@ -1,6 +1,6 @@
 {
   "name": "react-native-jsx-parser",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Modified JSX Parser to parse JSX string in React Native",
   "main": "index.js",
   "scripts": {
